@@ -1,5 +1,5 @@
 # praktika
- "Hello, World!"
+ "Hello, World!" - Andrey
 
 
 Hello - Nothingleftnot 
